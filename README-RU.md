@@ -1,4 +1,6 @@
-### Choose a language / Выберите язык: [English](https://github.com/ZhymabekRoman/Exagear-For-Termux/blob/master/README.md) / Русскии
+### 选择语言：[简体中文](https://gitee.com/tsxor/Exagear-For-Termux/blob/master/README.md)
+### Choose a language:[English](https://gitee.com/tsxor/Exagear-For-Termux/blob/master/README-EN.md)
+### Выберите язык:[Русскии](https://gitee.com/tsxor/Exagear-For-Termux/blob/master/README-RU.md)
 
 # Exagear For Termux
 Exagear For Termux - модифицированная версия Exagear, для Termux и Android девайсов. Основной целью проекта является достижение возможности стабильной и быстрой замены QEMU user mode + proot, который очень медленный и не стабильный.
