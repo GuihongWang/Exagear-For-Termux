@@ -1,4 +1,4 @@
 
 [submodule "bin/proot-static"]
 	path = bin/proot-static
-	url = https://gitee.com/tsxor/proot-static.git
+	url = https://gitee.com/tsxor/proot-static
